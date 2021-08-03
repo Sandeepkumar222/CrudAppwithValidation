@@ -1,0 +1,47 @@
+ .header {
+    /* background-color: #f1f1f1; */
+    padding: 20px;
+    text-align: center;
+    height : 10rem;
+  }
+
+  .footer {
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+    height : 4rem;
+  }
+
+  .errors{
+    color: red;
+  }
+
+  /* Style the top navigation bar */
+ 
+   .topnav {
+    position: absolute;
+    top : 5.2rem;
+    overflow: hidden;
+    background-color: rgb(13 202 240 / 70%);
+  } 
+  
+  /* Style the topnav links */
+   .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  /* Change color on hover */
+ .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  } 
+.carousel{
+    height : 30rem;
+    width : 50rem;
+}
+  
