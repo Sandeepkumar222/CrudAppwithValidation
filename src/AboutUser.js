@@ -60,7 +60,7 @@ const AboutUser = () => {
                   Enter the Id of User
                 </label>
                 <input
-                  type="text"
+                  type="number"
                   className="form-control"
                   id="formGroupExampleInput"
                   name="id"
